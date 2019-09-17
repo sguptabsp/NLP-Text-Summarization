@@ -1,0 +1,13 @@
+girl  , women , person 
+hat , skirt , girl  , shirt
+skirt 
+skirt , girl
+women , person
+ , shirt , rome , mumbai , 
+ one , two , ten 
+ one
+ ten
+ three
+ want 
+ told
+ woman
